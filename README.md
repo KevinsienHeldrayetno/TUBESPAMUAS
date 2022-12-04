@@ -7,10 +7,10 @@ Anggota Kelompok
 4. Kevinsien Heldrayetno (120140174)		
 5. Rio Prasetyo (120140025)		
 
-Nama Aplikasi : DayList
-Fungsi        : Catatan
-Fitur         : 1. Dark/Light Mode
-                2. Menambah/Menghapus/Mengedit Catatan
-                3. Mencari Catatan
-                4. Mengganti Background
-                5.
+Nama Aplikasi : DayList\ 
+Fungsi        : Catatan\
+Fitur         : 1. Dark/Light Mode\
+                2. Menambah/Menghapus/Mengedit Catatan\
+                3. Mencari Catatan\
+                4. Mengganti Background\
+                5.\
